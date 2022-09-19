@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm SiSiPHo</h1>
-<h3 align="center">a Frontend Developer and a nice guy from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Sisipho</h1>
+<h3 align="center">A frontend developer and a nice guy from Brazil</h3>
 
 - 🔭 I’m currently working on **my portfolio.**
 
